@@ -1,0 +1,5 @@
+{
+  "name": "Sistema de Agendamento Inteligente",
+  "description": "Sistema premium para agendamento de test-drives com visualização de calendário e integração com Google Agenda.",
+  "requestFramePermissions": []
+}
